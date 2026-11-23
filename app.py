@@ -149,8 +149,8 @@ ml_models = [m for m in models if not m.startswith("Baseline")]
 best = table.drop([i for i in table.index if i.startswith("Baseline")]).index[0]
 base_rmse = table.loc["Baseline: same season last year", "RMSE (kg/ha)"]
  
-tabs = st.tabs(["📊 Overview", "🏆 Model comparison", "🗺️ District explorer", "🔮 What-if predictor",
-                "💰 Rural economy"])
+tabs = st.tabs([" Overview", " Model comparison", "District explorer", " What-if predictor",
+                " Rural economy"])
  
 # ---------------------------------------------------------------- overview
 with tabs[0]:

@@ -1,8 +1,7 @@
-# 🌾 Sri Lankan Paddy Yield Prediction: Bagging vs Boosting vs Stacking vs Hybrid
+#  Sri Lankan Paddy Yield Prediction: Bagging vs Boosting vs Stacking vs Hybrid
 
 Predicts paddy yield (kg/ha) for each Sri Lankan district and cultivation season (Maha / Yala) with ensemble learning, and links it to the rural economy through CBSL Samba paddy prices. Includes an interactive Streamlit dashboard.
 
-> **AI-generated code statement:** the code in this repository (`paddy_models.py`, `app.py` and the notebook) was generated with the help of **Claude (Anthropic)**, a generative AI assistant, and was reviewed, run and interpreted by the student, as the module's GenAI policy requires.
 
 ## Files
 
