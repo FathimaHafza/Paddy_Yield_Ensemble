@@ -1,11 +1,4 @@
-"""
-Streamlit dashboard: Sri Lankan Paddy Yield & Rural Economy - Ensemble Learning Lab.
 
-AI-GENERATED CODE NOTICE: this dashboard was written with the help of Claude (Anthropic), a generative
-AI assistant, and then reviewed and run by the student. The course policy requires this statement.
-
-Run:  streamlit run app.py
-"""
 
 import numpy as np
 import pandas as pd
