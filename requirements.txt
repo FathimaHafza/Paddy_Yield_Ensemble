@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn>=1.4
+xgboost
+lightgbm
+catboost
+streamlit>=1.50
+plotly
+matplotlib
+jupyter
